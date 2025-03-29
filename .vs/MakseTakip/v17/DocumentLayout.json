@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C199B12-7B84-40D7-9C26-77CDB164A2FF}|Workaround\\Workaround.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C199B12-7B84-40D7-9C26-77CDB164A2FF}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{062D14C7-082B-455D-82CB-4784E37F29C9}|Entities\\Entities.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{062D14C7-082B-455D-82CB-4784E37F29C9}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C199B12-7B84-40D7-9C26-77CDB164A2FF}|Workaround\\Workaround.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C199B12-7B84-40D7-9C26-77CDB164A2FF}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{892A209B-D020-4755-B5D4-A9019B9B7171}|Business\\Business.csproj|c:\\users\\arap_\\source\\repos\\maksetakip\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ISupplierService.cs",
               "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Abstract\\ISupplierService.cs",
               "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
@@ -58,34 +54,19 @@
               "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T00:44:22.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T00:44:22.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IApplicantService.cs",
-              "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Abstract\\IApplicantService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
-              "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Abstract\\IApplicantService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:27:00.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ForeignerManager.cs",
               "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Concrete\\ForeignerManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
               "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Concrete\\ForeignerManager.cs",
               "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:39:53.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T05:39:53.939Z"
             },
             {
               "$type": "Document",
@@ -95,62 +76,58 @@
               "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
               "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Concrete\\PersonManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:27:10.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T00:27:10.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PttManager.cs",
               "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Concrete\\PttManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
               "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Concrete\\PttManager.cs",
               "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA3AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T05:06:54.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T05:06:54.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Entities\\Concrete\\Person.cs",
               "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
               "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Entities\\Concrete\\Person.cs",
               "RelativeToolTip": "Entities\\Concrete\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T00:06:43.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T00:06:43.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Workaround\\Program.cs",
               "RelativeDocumentMoniker": "Workaround\\Program.cs",
-              "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Workaround\\Program.cs",
-              "RelativeToolTip": "Workaround\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAdAAAA",
+              "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Workaround\\Program.cs*",
+              "RelativeToolTip": "Workaround\\Program.cs*",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwGwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T00:28:08.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Business",
+              "DocumentIndex": 6,
+              "Title": "Business.csproj",
               "DocumentMoniker": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Business.csproj",
               "RelativeDocumentMoniker": "Business\\Business.csproj",
               "ToolTip": "C:\\Users\\arap_\\source\\repos\\MakseTakip\\Business\\Business.csproj",
               "RelativeToolTip": "Business\\Business.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-21T00:12:18.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T00:12:18.989Z"
             }
           ]
         }

@@ -41,10 +41,10 @@ Console.WriteLine(sehirler2[0]);
 
 
 Person person1 = new Person();
-person1.FirstName = "A";
-person1.LastName = "K";
-person1.DateOfBirthYear = 1;
-person1.NationalIdentity = 1;
+person1.FirstName = "Özlem";
+person1.LastName = "Karabıyık";
+person1.DateOfBirthYear = 1979;
+person1.NationalIdentity = 26653218272;
 
 Person person2 = new Person();
 person2.FirstName = "Murat";
@@ -106,10 +106,10 @@ static void Degiskeler()
     int sayi = 100;
     bool girisYapmisMi = false;
 
-    string ad = "Ali";
+    string ad = "Özlem";
     string soyad = "Karabıyık";
-    int dogumYili = 2001;
-    long tcNo = 123456789;
+    int dogumYili = 1977;
+    long tcNo = 26653218272;
 
     Console.WriteLine(tutar * 1.18);
 

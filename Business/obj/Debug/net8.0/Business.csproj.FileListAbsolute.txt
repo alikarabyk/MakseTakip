@@ -13,3 +13,4 @@ C:\Users\arap_\source\repos\MakseTakip\Business\obj\Debug\net8.0\Business.dll
 C:\Users\arap_\source\repos\MakseTakip\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\arap_\source\repos\MakseTakip\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\arap_\source\repos\MakseTakip\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\arap_\source\repos\MakseTakip\Business\obj\Debug\net8.0\Business.sourcelink.json
